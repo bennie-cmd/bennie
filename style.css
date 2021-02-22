@@ -17,6 +17,7 @@ ul {
   overflow: hidden;
   background-color: #333;
   text-align:center;
+  scroll-behavior: smooth;
 }
 
 li {
